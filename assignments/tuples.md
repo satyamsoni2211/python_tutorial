@@ -1,0 +1,4 @@
+- Write a Python program to concatenate two tuples.
+- Write a Python program to count the occurrences of an element in a tuple.
+- Write a Python program to convert a tuple to a list.
+- Write a Python program to create a tuple of numbers and calculate the sum of elements.

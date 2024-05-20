@@ -1,0 +1,5 @@
+- Write a Python program to create a shallow copy of a list and modify the original list and observe changes in the shallow copy.
+- Write a Python program to create a deep copy of a nested list and modify the original list and observe changes in the deep copy.
+- Write a Python program to copy elements from one dictionary to another and modify the original dictionary and observe changes in the copied dictionary.
+- Write a Python program to create a copy of a set and modify the original set and observe changes in the copied set.
+- Write a Python program to copy elements from one list to another using slicing and modify the original list and observe changes in the copied list.

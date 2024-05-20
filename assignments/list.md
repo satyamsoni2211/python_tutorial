@@ -1,0 +1,4 @@
+- Write a Python program to find the sum of all elements in a list.
+- Write a Python program to remove duplicates from a list.
+- Write a Python program to find the index of a specific element in a list.
+- Write a Python program to sort a list of strings in alphabetical order.

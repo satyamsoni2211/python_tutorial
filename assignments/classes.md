@@ -1,0 +1,4 @@
+- Write a Python class to represent a student with attributes like name, roll number, and marks. Implement methods to calculate the grade based on marks.
+- Write a Python class to represent a bank account with attributes like account number, balance, and account holder name. Implement methods to deposit, withdraw, and check balance.
+- Write a Python class to represent a car with attributes like make, model, and year. Implement methods to start the car, stop the car, and check fuel level.
+- Write a Python class to represent a library with attributes like name, address, and list of books. Implement methods to add a book, remove a book, and search for a book by title.

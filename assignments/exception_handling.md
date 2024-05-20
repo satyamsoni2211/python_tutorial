@@ -1,0 +1,3 @@
+- Write a Python program that prompts the user to enter two numbers and performs division. Handle the ZeroDivisionError exception gracefully and display a custom error message.
+- Write a Python program to read a file and handle the FileNotFoundError exception. Display a message if the file is not found.
+- Write a Python program to prompt the user for their age and handle the ValueError exception if the input is not a valid integer.

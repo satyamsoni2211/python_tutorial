@@ -1,0 +1,4 @@
+- Write a Python program to create a dictionary representing a student's grades in different subjects. Calculate the average grade.
+- Write a Python program to check if a key exists in a dictionary. If not, add the key with a default value.
+- Write a Python program to iterate over the key-value pairs of a dictionary and display them.
+- Write a Python program to remove a key-value pair from a dictionary.

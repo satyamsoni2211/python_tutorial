@@ -1,0 +1,5 @@
+- Write a Python program to convert a string to an integer.
+- Write a Python program to convert a float to an integer.
+- Write a Python program to convert a string to a list.
+- Write a Python program to convert a list to a tuple.
+- Write a Python program to convert a dictionary to a list of tuples.

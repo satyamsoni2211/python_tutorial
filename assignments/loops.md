@@ -1,0 +1,4 @@
+- Write a Python program to print the Fibonacci sequence up to n terms.
+- Write a Python program to find the sum of all numbers stored in a list.
+- Write a Python program to count the number of even and odd numbers from a series of numbers.
+- Write a Python program to check whether a number is prime or not.
