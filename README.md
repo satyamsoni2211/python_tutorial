@@ -35,3 +35,11 @@ All the assignments are please in [assignment](assignments/) folder.
 - [list](assignments/list.md)
 - [sets](assignments/sets.md)
 - [type_casting](assignments/type_casting.md)
+
+---
+
+## About me
+
+As a seasoned technology specialist with over 8 years of experience, Satyam Soni excels in delivering highly optimized, cost-efficient, and resilient solutions. His approach remains technology-agnostic, allowing the leverage of the best tools and paradigms to meet client requirements. Passionate about innovation, he drives excellence in every project. Additionally, he is an active open source contributor with numerous libraries published on PyPi.
+
+LinkedIn: [Satyam Soni](https://www.linkedin.com/in/-satyamsoni/)
